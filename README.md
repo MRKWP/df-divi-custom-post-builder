@@ -1,6 +1,6 @@
 # Custom Post Builder For Divi 
 
-> Note: [Custom Post Builder Plugin](https://www.mrkwp.com/wp/custom-post-builder-plugin/) is now deprecated. Divi has introduced [Divi Builder](https://www.elegantthemes.com/documentation/divi/the-divi-theme-builder/) support. Theme builder allows to create custom single’s and archive’s template. Since our plugin’s functionality overlaps with divi’s we’ve decided to cease development on this plugin. We won't provide any support on this plugin.
+> Note: [Custom Post Builder Plugin](https://www.mrkwp.com/wp/custom-post-builder-plugin/) is now deprecated. Divi has introduced [Theme Builder](https://www.elegantthemes.com/documentation/divi/the-divi-theme-builder/) support. Theme builder allows to create custom single’s and archive’s template. Since our plugin’s functionality overlaps with divi’s we’ve decided to cease development on this plugin. We won't provide any support on this plugin.
 
 ## Description.
 Associate a Divi Library item to a Custom Post Type’s single page template. Make full use of the Divi Page Builder to design your single pages.
