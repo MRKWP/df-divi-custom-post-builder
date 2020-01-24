@@ -18,9 +18,11 @@ Included is a Divi Module which helps you inject the dynamic data belonging to t
 * A set of pre-defined field-formatters for ACF fields.
 * The ability to define custom field formatter via a hook.
 
+## Install this plugin
+* Download the plugin from [https://github.com/MRKWP/df-divi-custom-post-builder/archive/master.zip](https://github.com/MRKWP/df-divi-custom-post-builder/archive/master.zip)
+* Upload, install and activate the plugin from your WordPress admin
 
 ## Resources
 
-* [Installation Of Custom Post Builder](https://www.mrkwp.com/document/installation-of-custom-post-builder/)
 * [Custom Post Builder Guide](https://www.mrkwp.com/document/custom-post-builder-guide/)
 * [ACF Tools](https://www.mrkwp.com/document/acf-tools/)
